@@ -4,6 +4,7 @@ Pytorch implementation of DQN/DDQN for atari games.
 ## Requirement
 - python 3.6
 - pytorch >= 1.0.0
+- OpenAI Gym (Atari)
 - PIL
 - NumPy
 - OpenCV

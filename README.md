@@ -23,5 +23,5 @@ python main_pong -t test
 - The model and generated GIF will be saved at "DQN_tutorial/save/" and "DQN_tutorial/gif/" respectively. 
 
 ## Demo
-After 300000 Iterations. <br><br>
-<img src="demo.gif" width=160>
+After 300k iterations (~1hr on RTX2070). <br><br>
+<img src="demo.gif" width=168>
